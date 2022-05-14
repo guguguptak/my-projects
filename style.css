@@ -1,0 +1,15 @@
+
+.main{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    --default-font-size: 2.2rem;
+    font-size: var(--default-font-size);
+    text-align: center;
+}
+.list-container{
+    /*align-items: center;*/
+}
+
